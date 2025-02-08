@@ -2,7 +2,7 @@
 
 Eclipse is a comprehensive job application platform built with Next.js, React, and TypeScript. It provides a modern, responsive interface for job seekers and employers to connect, manage applications, and streamline the hiring process.
 
-![Eclipse Dashboard](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-02-07%20234240-ilPhiA7g2YFKl2TMksUuQerV6wAGW7.png)
+
 
 ## Features
 
@@ -69,7 +69,4 @@ Eclipse is a comprehensive job application platform built with Next.js, React, a
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
